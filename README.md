@@ -1,6 +1,5 @@
 Superstore Return Rate Analysis Dashboard
 
-Project Overview:
 This Tableau dashboard analyzes return patterns in Superstore sales data to identify actionable insights for reducing return rates and improving profitability.
 
 Key Findings:
